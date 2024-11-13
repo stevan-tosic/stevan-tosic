@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 ### Hello! :wave:
 
-I'm a developer specializing in PHP :elephant:, Docker :whale:, and React :atom_symbol:. My expertise in database management spans MySQL/MariaDB :floppy_disk:, ensuring robust data solutions. I work extensively with PHP frameworks like Symfony :bridge_at_night: and Slim to build scalable applications.
+I'm a developer specializing in PHP :elephant:, Docker :whale:, and React :atom_symbol:.  
+My expertise in database management spans MySQL/MariaDB :floppy_disk:, ensuring robust data solutions. I work extensively with PHP frameworks like Symfony :bridge_at_night: and Slim to build scalable applications.
 
-I also enjoy creating interactive UIs with React :art: and optimizing development environments with Docker :toolbox:. I'm passionate about solving complex technical challenges :muscle: and streamlining data operations. When I'm not coding, you might find me configuring Doctrine or exploring the capabilities of PhpStorm :mag:, particularly its automated coding style tools which ensure that all team members can focus on coding without worrying about style checks manually :no_entry_sign:.
+I also enjoy creating interactive UIs with React :art: and optimizing :toolbox: development environments with Docker :whale:.  
+I'm passionate about solving complex technical challenges :muscle: and streamlining data operations.  
+When I'm not coding, you might find me configuring Doctrine or exploring the capabilities of PhpStorm :mag:, particularly its automated coding style tools which ensure that all team members can focus on coding without worrying about style checks manually :no_entry_sign:.
 
 Let's connect and build something amazing together! :rocket:
